@@ -180,3 +180,10 @@ def main():
     max_ana(english_words, words_file)
         
 main()
+
+#Robert Corral-Code Review
+'''Better Commenting, it was easy to follow along with 
+your code although you may want to go check the Style Guide 
+for comment positioning def description goes below def other 
+than that good job
+'''
